@@ -14,23 +14,3 @@ I'm at the beginning of my journey in Computer Engineering, passionate about und
 
 ---
 
-### 🛠️ Tech & Tools I'm Learning
-* **Languages:** C, C++, JavaScript, HTML5, CSS3
-* **Tools & Concepts:** Git, GitHub, VS Code, Basic Command Line
-* **Currently Studying:** Computer Architecture, Operating Systems, Data Structures
-
----
-
-### 📈 GitHub Stats
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabinMagar0920&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabinMagar0920&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect with Me
-* **GitHub:** [@NabinMagar0920](https://github.com/NabinMagar0920)
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-* **Email:** `your.email@example.com`
-
----
-*“Every expert was once a beginner.”* 🚀
