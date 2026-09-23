@@ -12,5 +12,3 @@ I'm at the beginning of my journey in Computer Engineering, passionate about und
 * 💻 Practicing coding daily to sharpen my problem-solving skills.
 * 🚀 Exploring open-source projects and open-source contributions.
 
----
-
